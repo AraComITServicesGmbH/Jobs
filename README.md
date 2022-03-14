@@ -72,7 +72,7 @@ Der bunte Mix an tollen Kolleg:innen, eine umfangreiche Auswahl an Projekten mit
 
 
 
-### Christian | `DevOps-Specialist & Teamlead`
+### Christian | `DevOps-Specialist & Projektleiter`
 
 <img style="float: right;padding: 2px" src="resources/chris.png" alt="Christian" width="128" align="right"/>
 
