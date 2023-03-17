@@ -95,9 +95,7 @@ Das familiäre Umfeld ist bei uns nicht nur ein schönes Buzzword aus den Stelle
 ## Werde Teil unseres Teams! 
 
 Wir sind immer auf der Suche nach weiteren tollen Weggefährten, die es lieben, exzellente Software zu entwickeln und das gemeinsam mit einem unschlagbaren Team! Vielleicht siehst du dich in einer der folgenden Positionen:
-
--> [(Junior) Softwareentwickler Cloud (M/W/D) Python/GO (Golang)](https://crm.aracom.de/Job/Permanent/1e89578c-4a0a-4c19-b39d-a8e4a39a4682)  
--> [Softwareentwickler (M/W/D) Mobile .NET Java Web](https://crm.aracom.de/Job/Permanent/372b0258-b610-475f-96d9-cf5bc757f434)  
+ 
+-> [(Junior) Softwareentwickler (M/W/D) Mobile .NET Java Web](https://crm.aracom.de/Job/Permanent/75ac6115-714a-4dd8-aa4c-e068ead386aa)  
 -> [PHP Entwickler (M/W/D)](https://crm.aracom.de/Job/Permanent/14135cc7-c49b-4f39-b249-8b28b3caaf49)  
--> [Junior Product Owner (M/W/D)](https://crm.aracom.de/Job/Permanent/5da19e5a-e3a5-403a-a634-4826b51e79eb)  
--> [Softwareentwickler (M/W/D) React Native](https://crm.aracom.de/Job/Permanent/480fb372-d139-4216-b5bd-7ed5a4113544)  
+-> [Product Owner (M/W/D)](https://crm.aracom.de/Job/Permanent/8df8ad5c-420d-44b6-a357-0b549dbb5058)  
